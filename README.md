@@ -4,7 +4,7 @@ Game Megaman X3
 
 ## Getting Started
 
-
+![megaman](https://user-images.githubusercontent.com/36944931/50944605-aa4f1b00-14c3-11e9-9ce7-498c0f90a557.jpg)
 
 ## Deployment
 * Linker Input : d3d9.lib d3dx9.lib dsound.lib dinput8.lib dxguid.lib winmm.lib dxerr.lib zlib.lib
